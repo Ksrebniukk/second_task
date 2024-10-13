@@ -1,0 +1,4 @@
+D:/Навчання/5 семестр/second/build/CMakeFiles/calculator.dir
+D:/Навчання/5 семестр/second/build/CMakeFiles/main.dir
+D:/Навчання/5 семестр/second/build/CMakeFiles/edit_cache.dir
+D:/Навчання/5 семестр/second/build/CMakeFiles/rebuild_cache.dir
